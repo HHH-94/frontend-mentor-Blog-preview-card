@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card
 
-![Design preview for the Blog preview card coding challenge](assets\images\my-screenshot.png)
+![Design preview for the Blog preview card coding challenge](assets/images/my-screenshot.png)
 
 
 # Blog Preview Card - HHH's Version
